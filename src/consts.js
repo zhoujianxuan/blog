@@ -1,5 +1,5 @@
-export const SITE_TITLE = `Austin's Blog`;
-export const SITE_DESCRIPTION = 'Austin Site Description';
-export const SITE_EMAIL = 'no.sql@qq.com'
-export const SITE_NAME = 'astro.yufengbiji.com';
-export const SITE_URL = "https://astro.yufengbiji.com";
+export const SITE_TITLE = `Jianxuan's Blog`;
+export const SITE_DESCRIPTION = 'The goal is to become an excellent software development engineer';
+export const SITE_EMAIL = 'junakavaliro.zjx@gmail.com'
+export const SITE_NAME = ' ';
+export const SITE_URL = "https://www.yuque.com/zhoujx";
